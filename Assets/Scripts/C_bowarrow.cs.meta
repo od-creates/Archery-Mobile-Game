@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73885a41158f4ef428f6333f474aea19
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arrow_prefab: {instanceID: 0}
+  - arrow2: {instanceID: 0}
+  - followcam: {instanceID: 0}
+  - maincam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
